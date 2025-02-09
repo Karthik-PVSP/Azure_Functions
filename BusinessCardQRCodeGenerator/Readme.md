@@ -6,7 +6,7 @@ This project is an Azure Functions application written in Python that generates 
    2. telephone number
    3. email address
 
-
+[Azure Function Generate Business Card QR Code](https://www.youtube.com/watch?v=DNEa87kI05c)
 ## Files
 
 - `function_app.py`: Contains the main Azure Function that processes HTTP requests and generates QR codes.
